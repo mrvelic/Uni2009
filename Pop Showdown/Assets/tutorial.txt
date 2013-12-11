@@ -1,0 +1,30 @@
+# background_top, r, g, b
+background_top,64,184,255
+
+# background_bottom, r, g, b
+background_bottom,0,0,200
+
+# boundries, left, right, floor
+boundries,-400,10000,-200
+
+# boundry_textures, ground, side, grass
+boundry_textures,ground.png,side_dirt.png,grass.png
+
+# enemy, filename, x, y
+enemy,testenemy.txt,2000,0
+
+# item, name, x, y
+item,HealthPickup,3000,-100
+
+# gamestring, text, x, y
+gamestring,Use W and A to move left and right.,200,0
+gamestring,Use TAB to shoot.,1900,400
+gamestring,Press the spacebar to jump.,500,200
+gamestring,You can collect health packs.,2800,0
+gamestring,The flag indicates the end of the level.,5800,300
+
+# player_start, x, y
+player_start,-200,0
+
+#endpoint, x, level_file_name
+endpoint,6000,none

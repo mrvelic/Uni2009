@@ -1,0 +1,28 @@
+# background_top, r, g, b
+background_top,64,184,255
+
+# background_bottom, r, g, b
+background_bottom,0,0,200
+
+# boundries, left, right, floor
+boundries,-400,10000,-200
+
+# boundry_textures, ground, side, grass
+boundry_textures,ground.png,side_dirt.png,grass.png
+
+# enemy, filename, x, y
+enemy,testenemy.txt,2000,0
+enemy,testenemy.txt,2400,0
+enemy,testenemy.txt,2500,0
+
+# item, name, x, y
+item,HealthPickup,3000,-100
+
+# player_start, x, y
+player_start,-200,0
+
+#endpoint, x, level_file_name
+endpoint,5000,none
+
+# gamestring, text, x, y
+gamestring,This level is broken :(,200,0

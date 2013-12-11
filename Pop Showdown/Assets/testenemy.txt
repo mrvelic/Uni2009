@@ -1,0 +1,3 @@
+# ident, sprite, deathsprite, x, y, z, movementspeed, aggrodist, scale, iq
+enemy,lolkesha.png,loldeadkesha.png,2000,0,0,20,500,500,120,100
+item,MachineGun
