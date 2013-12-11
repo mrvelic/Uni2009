@@ -5,7 +5,8 @@ Terrible things from Uni in 2009
 
 Super Running Man
 -------
-Command prompt based game where you shoot unicode happy faces. Intro to game programming assignment 1.
+Command prompt based game where you shoot unicode happy faces. 
+Intro to game programming assignment 1.
 
 Pop Showdown
 -------
